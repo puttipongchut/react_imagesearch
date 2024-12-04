@@ -1,1 +1,1 @@
-A simple task management app built using react.js
+An Image Search app built using react.js + vite
